@@ -1,0 +1,10 @@
+{
+  "code": "mod-io-process",
+  "type": "core",
+  "name": "Host Process Runner",
+  "install": "/",
+  "version": "0.0.0",
+  "uninstall": [
+    {"rm": "lthn"}
+  ]
+}
